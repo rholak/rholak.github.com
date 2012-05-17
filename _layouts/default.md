@@ -1,0 +1,4 @@
+RHOLAK [ {{ page.title }} ]
+======
+
+{{ content }}
