@@ -1,4 +1,0 @@
-RHOLAK [ {{ page.title }} ]
-======
-
-{{ content }}
